@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=BabyNamesQuiz
+comment1.params=filename
+comment1.target=int\ countGirlsNames(java.lang.String)
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=filename
+comment2.target=int\ countBoysNames(java.lang.String)
+comment3.params=filename\ name\ gender
+comment3.target=int\ getRank(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.params=filename\ rank\ gender
+comment4.target=java.lang.String\ getName(java.lang.String,\ int,\ java.lang.String)
+comment5.params=name\ gender\ yearOriginalFile\ yearNewFile
+comment5.target=java.lang.String\ whatIsNameInYear(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment6.params=name\ gender
+comment6.target=int\ yearOfHighestRank(java.lang.String,\ java.lang.String)
+comment7.params=name\ gender
+comment7.target=double\ getAverageRank(java.lang.String,\ java.lang.String)
+comment8.params=filename\ name\ gender
+comment8.target=int\ getTotalBirthsRankedHigher(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment9.params=
+comment9.target=void\ test()
+numComments=11
